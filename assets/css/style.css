@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+  color: white;
+  margin:0px;
+}
+
+header {
+  background-color: grey;
+  color:black;
+  min-width: 300px;
+  max-width: 960px:
+  min-height:400px;
+  margin:0px;
+  text-align: center;
+}
+
+header h1 {
+  padding:30px;
+  margin: 0px auto;
+}
+
+ #top {
+   padding:20px;
+   text-align: center;
+   background-color: green;
+ }
+
+ #top button {
+   display: inline;
+ }
+
+  .container {
+    text-align: center;
+  }
+ #center {
+   max-width: 960px;
+   position: relative;
+   margin: 0 auto;
+ }
+
+ .outerBorder {
+   border: white solid 2px;
+   width:250px;
+   height:300px;
+   display: inline-block;
+ }
+ textarea {
+   display: inline-block;
+ }
+
+ #send {
+   display: inline;
+ }
+
+ #chat {
+   background-color: white;
+   width:400px;
+   height:100px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ #message {
+   min-width: 340px;
+   margin-top: 10px;
+ }
