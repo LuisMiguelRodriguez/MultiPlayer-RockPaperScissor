@@ -43,6 +43,13 @@ header h1 {
    width:250px;
    height:300px;
    display: inline-block;
+   margin-bottom: 20px;
+ }
+ .outerBorderBlack {
+   border: black solid 2px;
+   width:250px;
+   height:150px;
+   display: inline-block;
  }
  textarea {
    display: inline-block;
